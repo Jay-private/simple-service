@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: simple-web
-          image: jykim/simple-web:3
+          image: jykim/simple-web:6
           ports:
             - containerPort:  80
               name:  simple-web
